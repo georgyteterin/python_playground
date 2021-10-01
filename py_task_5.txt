@@ -1,0 +1,4 @@
+w = float(input ())
+h = float(input ())
+BMI = w / (h*h)
+print (BMI)
